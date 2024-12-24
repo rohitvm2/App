@@ -3,3 +3,7 @@ body{
   color: white;
   text-align: center;
 }
+h2{
+  text-align: center;
+  border: 2px dashed yellow;
+}

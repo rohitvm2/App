@@ -1,1 +1,1 @@
-alert("My App");
+console.log("My App");
